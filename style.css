@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to right, #6a11cb, #2575fc);
+    background: linear-gradient(to right,  #8953c7, #dd669e);
     margin: 0;
 }
 
@@ -40,7 +40,7 @@ button {
     font-size: 20px;
     border: none;
     border-radius: 10px;
-    background-color: #007bff;
+    background-color: #0573e7;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
